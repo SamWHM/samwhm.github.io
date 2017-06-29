@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: yellow;
 
 }
 
@@ -11,7 +11,7 @@ h1 {
 }
 
 body {
-  background: #95DEE8;
+  background: #C733FF;
   font-size: 20px;
 }
 
@@ -61,5 +61,3 @@ body {
 #contact input[type="submit"] {
   background-color: #FFC169;
 }
-
-
